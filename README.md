@@ -125,12 +125,3 @@ python chatbot.py
 
 သစ်ခွစိုက်ပျိုးရာတွင် မြေညီပြင်ဆင်ခြင်း၊ ရေချိန်ညှိခြင်း အရေးကြီးပါသည်။
 ```
-
-
----
-
-## 🛡️ Limitations
-
-* Not AI/ML based – works on keyword and text similarity
-* Limited to pre-defined answers
-* Does not learn over time
